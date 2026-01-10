@@ -35,6 +35,10 @@ This frame improves on the durability and printability of the [Parametric Whoop]
 
 **Recommended Print Settings:** ASA / PETG for frame, ASA / PETG / Hard TPU for prop guards, 0.20mm layer height, 100% infill, no supports. Print frame and prop guards upside down.
 
+**Printables:** https://www.printables.com/model/1551047-parametric-toothpick-frame
+
+**Thingiverse:** https://www.thingiverse.com/thing:7267710
+
 ## Builds
 
 ### 65mm BETAFPV Matrix 1S 5in1 (Analog VTX) + BETAFPV C03 Camera
