@@ -51,7 +51,7 @@ This frame improves on the durability and printability of the [Parametric Whoop]
 * Flight Controller: [BETAFPV Matrix 1S](https://betafpv.com/collections/brushless-flight-controller/products/matrix-1s-brushless-flight-controller)
 * Camera: [BETAFPV C03 Camera](https://betafpv.com/products/c03-fpv-micro-camera)
 * Motors: RCinPower 0702 27000KV
-* Props: Gemfan 1210-2 31mm
+* Props: Gemfan 1208-3 31mm
 * Hardware:
     * 12x M1.4x3 for motors (included with motors)
     * 4x 2mm tall spacers: [4x2mm_spacer.stl](stl/4x2mm_spacer.stl)
